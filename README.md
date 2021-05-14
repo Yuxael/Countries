@@ -13,7 +13,7 @@ Of course, the honest users, the genuine users of our m3u's, will have no disadv
 
 # ALSO IMPORTANT INFORMATION!
 
-10. April 2021: Since a guy from New Zealand has apparently started a hate campaign against me here at Github, I don't feel like it anymore!
+10. April 2021: Since a guy from New Zealand  has apparently started a hate campaign against me here at Github, I don't feel like it anymore!
 
 https://github.com/linuxmint/hypnotix/issues/124#issuecomment-817116183
 
